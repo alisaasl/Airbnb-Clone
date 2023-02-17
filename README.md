@@ -6,10 +6,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone _REPONU KLONLAMAQ UCHUN GITHUB LINKI_
+$ git clone 
 
 # Go into the repository
-$ cd _HEMEN REPONUN FOLDERININ ADI_
+$ cd 
 
 # Install dependencies
 $ npm install
